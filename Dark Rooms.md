@@ -9,9 +9,10 @@ Dark Rooms является мультиплеерной 2D игрой в жан
 ### 2.2 Интерфейс пользователя
 При запуске игрок видит главное меню с кнопками Start, Options, Stats, Exit. Данные кнопки расписаны в разделе “функциональные требования”. При запуске матча игрок выбирает персонажа на клавиши RIGHT и LEFT, выбранный персонаж при этом демонстрируется игроку. Рядом также указано описание персонажа. Затем игроки попадают на игровую карту, управление указано в разделе “функциональные требования”.
 
-![Меню](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/1.png?raw=true)
-![Набросок 1](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/2.png?raw=true)
-![Набросок 2](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/3.png?raw=true)
+![Меню](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/1.jpg?raw=true)
+![Выбор персонажа](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/2.jpg?raw=true)
+![Геймплей](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/3.jpg?raw=true)
+![Выход в меню во время игры](https://github.com/FieryBird1504/ToDaTS/blob/master/Mockups/4.jpg?raw=true)
 
 ### 2.3 Характеристики пользователей
 Предполагаемая аудитория:
