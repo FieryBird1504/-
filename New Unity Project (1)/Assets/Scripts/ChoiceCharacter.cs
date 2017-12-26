@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class ChoiceCharacter : MonoBehaviour {
 
@@ -10,6 +11,7 @@ public class ChoiceCharacter : MonoBehaviour {
     public string[] ChName = new string[0];
     public GameObject[] ChPanel = new GameObject [0];
     int num;
+    public FileWork FW;
 
     /*
     public struct ch
@@ -50,4 +52,9 @@ public class ChoiceCharacter : MonoBehaviour {
         CharName.text = ChName[num];
     }
 
+    public void Button_Start()
+    {
+        FW.EnterChar(CharName.text);
+        SceneManager.LoadScene(2);
+    }
 }
